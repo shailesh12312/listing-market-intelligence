@@ -1,4 +1,4 @@
-import { C as f } from "./creative-campaigns-embed-CpRRrl8o.js";
+import { C as f } from "./creative-campaigns-embed-bGgl0WPp.js";
 export {
   f as default
 };
